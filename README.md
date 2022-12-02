@@ -8,9 +8,9 @@ The Maze was written was written in C ussing SDL2 library. Deveploment was perfo
 
 Simple DirectMedia Layer is a cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL and Direct3D. It is used by video playback software, emulators, and popular games including Valve's award winning catalog and many Humble Bundle games.
 
-## Instalation 
+## Instalation d
 ```sh
-$ git clone https://github.com/danielaloperahernandez/The-Maze.git
+$ git clone https:i//github.com/robby10Z/The-Maze.git
 ```
 ## Usage 
 * Execute ./maze or type make run 
@@ -22,8 +22,4 @@ $ git clone https://github.com/danielaloperahernandez/The-Maze.git
 $ gcc -Wall -Werror -Wextra -pedantic ./src/*.c -lm -o maze `sdl2-config --cflags` `sdl2-config --libs`;
 ```
 
-## Flowchart
-![The Maze Flow Chart](https://i.imgur.com/t0MxNni.png)
 
-## Demo
-[![The Maze Demo](https://i.imgur.com/5Ss7s1S.png)](https://www.youtube.com/embed/6T2N8gNUTQ8)
